@@ -111,28 +111,94 @@ const nguyenHuuThang = {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nguyenhuuthang113&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<img src="https://github-profile-trophy.vercel.app/?username=nguyenhuuthang113&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/nguyenhuuthang113/nguyenhuuthang113/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuthang113&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 💼 Top Repositories
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenhuuthang113/nguyenhuuthang113/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenhuuthang113/nguyenhuuthang113/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nguyenhuuthang113/nguyenhuuthang113/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 💼 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuuthang113&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4)](https://github.com/nguyenhuuthang113/repo-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuuthang113&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4)](https://github.com/nguyenhuuthang113/repo-name-2)
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 MMO Automation Tools
+**Tech Stack:** Python, Selenium, OpenCV  
+Công cụ tự động hóa cho game MMO với AI detection
+
+**Features:**
+- Auto farming & questing
+- Resource management  
+- Multi-account support
+
+</td>
+<td width="50%">
+
+### 🤖 AI Discord Bot
+**Tech Stack:** Node.js, Discord.js, OpenAI  
+Bot AI thông minh tích hợp GPT
+
+**Features:**
+- Natural language processing
+- Custom commands
+- Database integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data Scraping System
+**Tech Stack:** Python, FastAPI, MongoDB  
+Hệ thống thu thập & phân tích dữ liệu
+
+**Features:**
+- Multi-threaded scraping
+- Real-time processing
+- REST API endpoints
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack Web App
+**Tech Stack:** React, NestJS, PostgreSQL  
+Ứng dụng web hiện đại & scalable
+
+**Features:**
+- Microservices architecture
+- Real-time updates
+- Cloud deployment
+
+</td>
+</tr>
+</table>
 
 </div>
 
