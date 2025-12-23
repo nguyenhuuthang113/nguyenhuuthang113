@@ -97,11 +97,13 @@ const nguyenHuuThang = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyenhuuthang113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nguyenhuuthang113&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B35&currStreakLabel=00F7F4" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nguyenhuuthang113&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B35&currStreakLabel=00F7F4"  alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=nguyenhuuthang113&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6B35&currStreakLabel=00F7F4" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuthang113&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuthang113&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuthang113&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&height=300" alt="Contribution Graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuthang113&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=nguyenhuuthang113&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
 
@@ -111,7 +113,7 @@ const nguyenHuuThang = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nguyenhuuthang113&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=nguyenhuuthang113&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -247,7 +249,11 @@ for project, description in current_projects.items():
 
 ### 📊 Profile Views
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=nguyenhuuthang113&icon=6&color=6)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=nguyenhuuthang113&color=00F7F4&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
